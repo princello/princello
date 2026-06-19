@@ -15,19 +15,6 @@ I work close to the bench, with the people who generate the data. Single-cell an
 spatial genomics through QC, integration, and interpretation, and deep learning over
 sequence, structure, and imaging at cluster scale.
 
----
-
-### Genomics pipelines
-
-- [perturbseq-starter](https://github.com/princello/perturbseq-starter) — Perturb-seq and CRISPR-screen analysis from guides to hits.
-- [scatac-starter](https://github.com/princello/scatac-starter) — single-cell ATAC, peak calling through TF-motif enrichment.
-- [scrna-workflow](https://github.com/princello/scrna-workflow) — an scRNA pipeline written as a Snakemake and Nextflow DAG.
-
-### Models
-
-- [admet-bench](https://github.com/princello/admet-bench) — D-MPNN against ECFP with knowledge distillation, ML for drug discovery.
-- [TCR-FOLD](https://github.com/princello/TCR-FOLD) — sequence and structure for TCR-pMHC recognition.
-- [pathology-fibrosis-pipeline](https://github.com/princello/pathology-fibrosis-pipeline) — foundation-model embeddings over whole-slide images.
 
 ---
 
